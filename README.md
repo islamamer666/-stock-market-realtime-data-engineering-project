@@ -6,11 +6,19 @@ We are going to use different technologies such as Python, Amazon Web Services (
 ![Architecture](https://github.com/islamamer666/-stock-market-realtime-data-engineering-project/assets/72258715/5ae6b031-b930-4332-bfe4-41a1ec75ec4e)
 
 Technology Used
+
 Programming Language - Python
+
 Amazon Web Service (AWS)
+
 S3 (Simple Storage Service)
+
 Athena
+
 Glue Crawler
+
 Glue Catalog
+
 EC2
+
 Apache Kafka
